@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\Practical_CS\Practical_CS_Project\Practical_CS_Project\obj\Debug\netcoreapp3.1\Practical_CS_Project.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Practical_CS\Practical_CS_Project\Practical_CS_Project\obj\Debug\netcoreapp3.1\Practical_CS_Project.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Practical_CS\Practical_CS_Project\Practical_CS_Project\obj\Debug\netcoreapp3.1\Practical_CS_Project.AssemblyInfo.cs
+C:\Users\USER\Desktop\Practical_CS\Practical_CS_Project\Practical_CS_Project\obj\Debug\netcoreapp3.1\Practical_CS_Project.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Practical_CS\Practical_CS_Project\Practical_CS_Project\bin\Debug\netcoreapp3.1\Practical_CS_Project.exe
+C:\Users\USER\Desktop\Practical_CS\Practical_CS_Project\Practical_CS_Project\bin\Debug\netcoreapp3.1\Practical_CS_Project.deps.json
+C:\Users\USER\Desktop\Practical_CS\Practical_CS_Project\Practical_CS_Project\bin\Debug\netcoreapp3.1\Practical_CS_Project.runtimeconfig.json
+C:\Users\USER\Desktop\Practical_CS\Practical_CS_Project\Practical_CS_Project\bin\Debug\netcoreapp3.1\Practical_CS_Project.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Practical_CS\Practical_CS_Project\Practical_CS_Project\bin\Debug\netcoreapp3.1\Practical_CS_Project.dll
+C:\Users\USER\Desktop\Practical_CS\Practical_CS_Project\Practical_CS_Project\bin\Debug\netcoreapp3.1\Practical_CS_Project.pdb
+C:\Users\USER\Desktop\Practical_CS\Practical_CS_Project\Practical_CS_Project\obj\Debug\netcoreapp3.1\Practical_CS_Project.dll
+C:\Users\USER\Desktop\Practical_CS\Practical_CS_Project\Practical_CS_Project\obj\Debug\netcoreapp3.1\Practical_CS_Project.pdb
+C:\Users\USER\Desktop\Practical_CS\Practical_CS_Project\Practical_CS_Project\obj\Debug\netcoreapp3.1\Practical_CS_Project.genruntimeconfig.cache

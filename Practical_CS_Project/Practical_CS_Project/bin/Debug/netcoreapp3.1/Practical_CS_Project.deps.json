@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Practical_CS_Project/1.0.0": {
+        "runtime": {
+          "Practical_CS_Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practical_CS_Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
