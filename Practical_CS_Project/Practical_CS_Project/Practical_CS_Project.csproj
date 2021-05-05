@@ -6,10 +6,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="01_Basic\DT.cs" />
+    <Compile Remove="01_Basic\MyStruct.cs" />
     <Compile Remove="01_Basic\Product.cs" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="01_Basic\DT.cs" />
+    <None Include="01_Basic\MyStruct.cs" />
     <None Include="01_Basic\Product.cs" />
   </ItemGroup>
 
