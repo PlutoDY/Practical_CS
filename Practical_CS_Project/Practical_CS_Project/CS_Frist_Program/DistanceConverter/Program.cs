@@ -8,7 +8,7 @@ namespace Practical_CS_Project.CS_Frist_Program.DistanceConverter
     {
         static void Main(string[] args)
         {
-            if(args.Length >= 1 && args[0] == "-tom")
+            if (args.Length >= 1 && args[0] == "-tom")
             {
                 PrintFeetToMeterList(1, 10);
             }
@@ -20,31 +20,23 @@ namespace Practical_CS_Project.CS_Frist_Program.DistanceConverter
 
         static void PrintFeetToMeterList(int start, int stop)
         {
-            for (int feet = start; feet <= stop; feet++)
+            FeetConverter converter = new FeetConverter();
+            for(int feet = start; feet <= stop; feet++)
             {
-                double meter = FeetToMeter(feet);
+                double meter = converter.ToMeter(feet);
                 Console.WriteLine("{0} ft = {1:0.0000} m", feet, meter);
             }
         }
 
-        static void PrintMeterToFeetList(int start, int stop)
+        static void PrintMeterToFeetList(int start,int stop)
         {
+            FeetConverter converter = new FeetConverter();
             for(int meter = start; meter <= stop; meter++)
             {
-                double feet = MeterToFeet(meter);
+                double feet = converter.FromMeter(meter);
                 Console.WriteLine("{0} m = {1:0.0000} ft", meter, feet);
             }
         }
-
-        // FeetToMeter 메서드의 시그니처를 결정
-        static double FeetToMeter(int feet)
-        {
-            return feet * 0.3048;
-        }
-
-        static double MeterToFeet(int meter)
-        {
-            return meter / 0.3048;
-        }
     }
+
 }
