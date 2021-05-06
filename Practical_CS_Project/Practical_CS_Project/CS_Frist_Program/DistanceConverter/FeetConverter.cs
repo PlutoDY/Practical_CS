@@ -11,12 +11,12 @@ namespace Practical_CS_Project.CS_Frist_Program.DistanceConverter
 
         public static double FromMeter(double meter)
         {
-            return meter / ratio;
+            return meter / Ratio;
         }
 
         public static double ToMeter(double feet)
         {
-            return feet * ratio;
+            return feet * Ratio;
         }
     }
 }
