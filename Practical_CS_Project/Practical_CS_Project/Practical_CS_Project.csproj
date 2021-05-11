@@ -10,6 +10,8 @@
     <Compile Remove="01_Basic\MyClass.cs" />
     <Compile Remove="01_Basic\MyStruct.cs" />
     <Compile Remove="01_Basic\Product.cs" />
+    <Compile Remove="CS_Frist_Program\DistanceConverter\FeetConverter.cs" />
+    <Compile Remove="CS_Frist_Program\DistanceConverter\Program.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -17,6 +19,8 @@
     <None Include="01_Basic\MyClass.cs" />
     <None Include="01_Basic\MyStruct.cs" />
     <None Include="01_Basic\Product.cs" />
+    <None Include="CS_Frist_Program\DistanceConverter\FeetConverter.cs" />
+    <None Include="CS_Frist_Program\DistanceConverter\Program.cs" />
   </ItemGroup>
 
 </Project>
